@@ -1,0 +1,51 @@
+.loginwrapper{
+
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+ }
+
+ .login{
+
+    background-color: thistle;
+    padding: 100px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+ }
+
+ .loginwrapper img{
+    width: 250px;
+    margin-bottom: 40px;
+ }
+ 
+ .mail_login{
+
+    background-color: #e8eadc;
+    border: 0;
+    padding: 10px 50px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 5px;
+ }
+
+ .para{
+
+   margin-top: 3px;
+ }
+ .para_btn{
+   margin-left: 6px;
+   background-color: rgb(88, 12, 67);
+   color: aliceblue;
+ }
+
+ .para_btn:hover{
+    
+   background-color: rgb(74, 20, 20);
+   color: whitesmoke;
+   cursor: pointer;
+ }

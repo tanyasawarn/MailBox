@@ -1,0 +1,1 @@
+export const backend_api = "https://travelopia-backend-datq.onrender.com/"
